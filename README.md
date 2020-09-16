@@ -1,7 +1,6 @@
-# scrabble-solver
 # Scrabble Solver Service
 Implements an HTTP REST service that returns Scrabble words for a given set of letters. 
-And the dictionary(list of words) is fetched from - http://recruiting.bluenile.com/words.txt
+And the dictionary(list of words) is fetched from - https://tinyurl.com/y4ejk339
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
